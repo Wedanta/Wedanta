@@ -1,0 +1,16 @@
+//html
+  //head
+
+
+  //body
+    //header
+    //sidemenu
+    //content
+    //foooter
+
+
+Homework
+  header & footer - phone number
+  sidemenu > ul
+
+  content - заголовок, картинка, текст
